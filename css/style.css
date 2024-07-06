@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(178, 200, 223);
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center; 
+    justify-content: center;
+    margin:8%;
+   
+
+}
+
+
+.qr__main{
+    
+    
+    background-color:white;
+    border-radius: 20px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+  
+}
+.qr__img{
+padding:10px;
+}
+.content{
+    font-family: "Outfit", sans-serif;
+}
+img{
+    border-radius: 20px;
+
+}
+h3{
+    color: rgb(27, 25, 57);
+}
+p{
+    font-weight: lighter;
+    color: rgb(106, 100, 100);
+}
